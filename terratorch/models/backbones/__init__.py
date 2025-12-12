@@ -2,6 +2,7 @@
 
 # import so they get registered
 import terratorch.models.backbones.clay_v1
+import terratorch.models.backbones.dinov2
 import terratorch.models.backbones.dinov3
 import terratorch.models.backbones.dofa_vit
 import terratorch.models.backbones.prithvi_swin
